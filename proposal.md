@@ -971,6 +971,6 @@ The combination of urgent societal need, scientific frontier positioning, comple
 *Prepared by:*
 *Indian Principal Investigator: [Name], [Institution], India*
 *French Principal Investigator: [Name], [Institution], France*
-*Date: April 2026*
+*Date: April 14, 2026*
 
 *Submitted to: CEFIPRA (Centre Franco-Indien pour la Promotion de la Recherche Avancée) / DST-CNRS Joint Research Programme 2026*
