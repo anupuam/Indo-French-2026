@@ -1,0 +1,9 @@
+# Research Field Descriptions
+
+## Research Field for Cooperation
+
+Intelligent Assistive Robotics and Rehabilitation Engineering — a multidisciplinary field at the convergence of artificial intelligence, wearable robotics, biomechanics, and computational optimization. This field addresses the urgent global challenge of developing adaptive robotic systems that restore mobility for impaired and dependent individuals, including elderly, post-stroke, and neurologically compromised populations. It integrates evolutionary computation, deep learning, human-motion sensing, and advanced control theory to create wearable exoskeletons capable of perceiving user intent, generating personalized assistive trajectories, and delivering safe, stable torque in real-world environments. The cooperation leverages India's strengths in optimization and machine learning with France's expertise in wearable robotics and biomechanical analysis.
+
+## Sub field of Proposed Research Field
+
+Multi-Level Optimization for Adaptive Lower-Limb Exoskeleton Assistance — focusing on a unified optimization-driven architecture spanning perception, trajectory generation, and control for wearable robotic gait assistance. This encompasses three integrated thrusts: evolutionary algorithm-optimized hybrid deep learning (Fuzzy-CNN-GRU with Neural Architecture Search) for real-time gait phase classification and intention recognition from wearable inertial and plantar sensors; Optimal Transport-based domain adaptation for personalized biomechanical trajectory synthesis under inter-subject variability; and σ-modified Adaptive Active Disturbance Rejection Control with metaheuristic online tuning for Lyapunov-stable joint torque delivery. This sub-field uniquely unifies all system layers through principled optimization, enabling self-tuning robotic assistance that adapts to individual users and dynamic environments.
